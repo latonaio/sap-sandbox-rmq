@@ -22,13 +22,13 @@ sap-sandbox-rmq におけるSAP領域・機能は、SAP S4HANA のあらゆる�
 ## Port 番号 の 適用方針 
 | type      | Area         | ポート番号    |
 | :-------- | :----------------------------- | :---------------------------------------- |
-| NodePort  | Central Functions              | 50503-50510 |
-|           | Logistics             |    50511-50515    |
-|           | Inventory Management |          50516-50525                                 |
-|           | Sales Management |50526-50540|
-|           | Procurement Management           |             50541-50550                              |
-|           | Production Management          |          50551-50560                                 |
-|           | Process Management           |            50561-50565                               |
-|           | Quality Management          |                50566-50570                           |
-|           | Plant Maintenance        |                 50571-50585                          |
-|           | Customer Service         |                 50586-50590           |
+| NodePort  | Central Functions              | 30503-30510 |
+|           | Logistics             |    30511-30515    |
+|           | Inventory Management |          30516-30525                                 |
+|           | Sales Management |30526-50540|
+|           | Procurement Management           |             30541-30550                              |
+|           | Production Management          |          30551-30560                                 |
+|           | Process Management           |            30561-30565                               |
+|           | Quality Management          |                30566-30570                           |
+|           | Plant Maintenance        |                 30571-30585                          |
+|           | Customer Service         |                 30586-30590           |
