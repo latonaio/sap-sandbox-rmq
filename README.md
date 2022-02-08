@@ -25,7 +25,7 @@ sap-sandbox-rmq におけるSAP領域・機能は、SAP S4HANA のあらゆる�
 | NodePort  | Central Functions              | 30503-30510 |
 |           | Logistics             |    30511-30515    |
 |           | Inventory Management |          30516-30525                                 |
-|           | Sales Management |30526-50540|
+|           | Sales Management |30526-30540|
 |           | Procurement Management           |             30541-30550                              |
 |           | Production Management          |          30551-30560                                 |
 |           | Process Management           |            30561-30565                               |
