@@ -14,7 +14,7 @@ sap-sandbox-rmq は、オンプレミス版である（＝クラウド版では�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox.rmq.drawio.png)
+![リソース整備状況](documents/sap_sandbox.rmq.png)
 
 ## sap-sandbox-rmq における SAP領域・機能 の選択基準
 sap-sandbox-rmq におけるSAP領域・機能は、SAP S4HANA のあらゆる領域・機能のうち、世界中の企業で繰り返し利用される、利用頻度の高いものと判断されるものが、選択されています。
